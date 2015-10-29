@@ -1,0 +1,15 @@
+{
+  "name": "alidayu",
+  "version": "0.0.1",
+  "private": false,
+  "description": "alidayu for nodejs with es6.",
+  "dependencies": {
+    "moment": "^2.10.6",
+    "request": "^2.65.0",
+    "thunkify-wrap": "^1.0.4",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {
+    "should": "^7.1.1"
+  }
+}
